@@ -1,5 +1,5 @@
-# unsw_scripts
-A set of scripts for UNSW
+# unsw_code2121
+A set of scripts for UNSW Code 2121
 
 * Useful Links http://www.matweb.com/
 * Maximum deviation 0.1% for bar and bridge
